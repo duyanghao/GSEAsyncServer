@@ -1,0 +1,11 @@
+# Configurate task...
+task:
+  addrs: ""
+  port: ""
+  username: ""
+  password: ""
+  database: ""
+  table: ""
+  connMaxLifetime: 10
+  maxIdleConns: 100
+  maxOpenConns: 100
